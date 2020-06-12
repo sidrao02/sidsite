@@ -6,9 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### My resume
 
 Below, you can find my resume
-```markdown
-
-```
 ![resume1](/assets/path/SiddharthaRaoResume-page-001.jpg)
 ![resume2](/assets/path/SiddharthaRaoResume-page-002.jpg)
 ![resume3](/assets/path/SiddharthaRaoResume-page-003.jpg)
