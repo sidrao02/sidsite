@@ -3,14 +3,15 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### My resume
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Below, you can find my resume
 ```markdown
 
 ```
 ![resume1](/assets/path/SiddharthaRaoResume-page-001.jpg)
+![resume2](/assets/path/SiddharthaRaoResume-page-002.jpg)
+![resume3](/assets/path/SiddharthaRaoResume-page-003.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 # Header 1
