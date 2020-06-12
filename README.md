@@ -12,7 +12,7 @@ Below, you can find my resume
 ![resume1](/assets/path/SiddharthaRaoResume-page-001.jpg)
 ![resume2](/assets/path/SiddharthaRaoResume-page-002.jpg)
 ![resume3](/assets/path/SiddharthaRaoResume-page-003.jpg)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If you have any other questions, don't hesitate to email me at [sid.rao.us@outlook.com](mailto:sid.rao.us@outlook.com).
 
 # Header 1
 ## Header 2
