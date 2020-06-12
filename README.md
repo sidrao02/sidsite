@@ -14,7 +14,8 @@ Below, you can find my resume
 ![resume3](/assets/path/SiddharthaRaoResume-page-003.jpg)
 If you have any other questions, don't hesitate to email me at [sid.rao.us@outlook.com](mailto:sid.rao.us@outlook.com).
 
-# Header 1
+# Blog posts
+
 ## Header 2
 ### Header 3
 
