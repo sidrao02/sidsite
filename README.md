@@ -16,7 +16,7 @@ If you have any other questions, don't hesitate to email me at [sid.rao.us@outlo
 
 # Blog posts
 
-## Header 2
+## [Coding my own game from scratch](/blogs/blogposts/blog1.md)
 ### Header 3
 
 - Bulleted
