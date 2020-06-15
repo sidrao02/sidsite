@@ -1,9 +1,8 @@
 # Hi, my name is Sid!
 ### I am currently a rising college freshman at Purdue Univesity and majoring in Data Science
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### My resume
+![picture](/assets/path/tennis.jpg)
+### My resume (brag sheet)
 
 Below, you can find my resume
 ![resume1](/assets/path/SiddharthaRaoResume-page-001.jpg)
