@@ -4,7 +4,7 @@
 ![picture](/assets/path/siddhartharaopicture.jpg)
 
 
-###Social Media:
+### Social Media:
 [Facebook](https://www.facebook.com/sid.rao.568)
 ### My resume (brag sheet)
 
