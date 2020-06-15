@@ -1,7 +1,11 @@
 # Hi, my name is Sid!
 ### I am currently a rising college freshman at Purdue Univesity and majoring in Data Science
 
-![picture](/assets/path/tennis.jpg)
+![picture](/assets/path/siddhartharaopicture.jpg)
+
+
+###Social Media:
+[Facebook](https://www.facebook.com/sid.rao.568)
 ### My resume (brag sheet)
 
 Below, you can find my resume
